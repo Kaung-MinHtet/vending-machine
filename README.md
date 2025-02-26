@@ -73,8 +73,6 @@ php artisan migrate
 ## **10. Deployment Notes**
 - **Set up a web server (Apache/Nginx)** with Laravel configurations.
 - **Run database migrations** on the production database.
-- **Use a queue worker** for background tasks (`php artisan queue:work`).
-- **Set up cron jobs** for scheduled tasks (`php artisan schedule:run`).
 
 For further details, refer to the project documentation. 🚀
 
